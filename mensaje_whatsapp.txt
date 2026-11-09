@@ -1,0 +1,14 @@
+Hola chicos! Les paso cómo va el TP integrador de Computación Aplicada 💻
+
+✅ Ya descargué, armé e importé la máquina virtual (Debian 11) y arranca bien.
+   Si a alguien le da error el .rar: hay que sacarle el "(1)" al nombre de cada parte (TPVMCA.part01.rar, part02.rar, etc.) y abrir la part01.
+   En VirtualBox hay que cambiar el adaptador puente a la placa de red de cada uno (viene con "wlp3s0" y no anda).
+
+✅ Ya están armados:
+- El script de backup (backup_full.sh) con ayuda (-help), validación de origen/destino y nombre con fecha
+- Los archivos de configuración: red con IP estática, Apache apuntando a /www_dir, fstab y el crontab
+- Una guía paso a paso con todos los comandos y explicaciones para la defensa oral
+
+⏳ Falta aplicarlo en la VM: blanqueo de root, hostname TPServer, upgrade a Debian 12, SSH, Apache/PHP, MariaDB, disco nuevo + particiones, y subir todo a GitHub.
+
+📌 Necesito que me pasen sus nombres completos para el README del repositorio de GitHub.
