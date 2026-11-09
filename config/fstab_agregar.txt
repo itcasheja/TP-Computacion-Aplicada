@@ -1,5 +1,0 @@
-# Agregar al final de /etc/fstab para que las particiones se monten al iniciar.
-# Reemplazar los UUID por los reales (se ven con el comando: blkid)
-# <dispositivo>                              <punto de montaje>  <tipo>  <opciones>  <dump> <pass>
-UUID=PONER-UUID-DE-sdX1                      /www_dir            ext4    defaults    0      2
-UUID=PONER-UUID-DE-sdX2                      /backup_dir         ext4    defaults    0      2

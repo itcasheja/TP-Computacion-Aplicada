@@ -1,8 +1,0 @@
-# Agregar en /etc/apache2/apache2.conf (debajo del bloque <Directory /var/www/>)
-# Le da permiso a Apache para servir archivos desde /www_dir
-
-<Directory /www_dir/>
-    Options Indexes FollowSymLinks
-    AllowOverride None
-    Require all granted
-</Directory>
