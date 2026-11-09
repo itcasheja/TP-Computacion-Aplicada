@@ -3,11 +3,9 @@
 Universidad de Palermo – Ciberseguridad
 
 ## Integrantes
-- COMPLETAR NOMBRE 1
-- COMPLETAR NOMBRE 2
-- COMPLETAR NOMBRE 3
-- COMPLETAR NOMBRE 4
-- COMPLETAR NOMBRE 5
+- Danuvio Heredia
+- Mia Fernandez
+- Valentina Alvarez
 
 ## Entregables (carpeta `entregables/`)
 | Archivo | Contenido |
