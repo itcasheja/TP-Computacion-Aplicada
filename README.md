@@ -13,7 +13,7 @@
 | `opt.tar.gz` | /opt |
 | `www_dir.tar.gz` | /www_dir |
 | `backup_dir.tar.gz` | /backup_dir |
-| `var.tar.gz.part_00`, `var.tar.gz.part_01` | /var (dividido en partes) |
+| `var.tar.gz.part_00` a `var.tar.gz.part_03` | /var (dividido en partes) |
 
 Para reconstruir /var:
 ```
